@@ -15,7 +15,7 @@
 #include <linux/reboot.h>
 
 #include <linux/extcon.h>
-#include <../../extcon-asus/extcon-asus.h>
+#include "../../extcon-asus/extcon-asus.h"
 #include <linux/iio/consumer.h>
 // Battery Safety +++
 #include <linux/reboot.h>

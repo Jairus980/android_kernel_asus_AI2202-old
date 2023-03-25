@@ -1,5 +1,5 @@
-#include "focaltech_core.h"
-#include "asus_tp.h"
+#include "../../drivers/input/touchscreen/focaltech_3658u/focaltech_core.h"
+#include "../.././drivers/input/touchscreen/focaltech_3658u/asus_tp.h"
 
 /*****************************************************************************
 * Global variable or extern global variabls/functions

@@ -1,5 +1,5 @@
-#include "focaltech_core.h"
-#include "asus_tp.h"
+#include "../../drivers/input/touchscreen/focaltech_3658u/focaltech_core.h"
+#include "../.././drivers/input/touchscreen/focaltech_3658u/asus_tp.h"
 /* Sake BSP Display +++ */
 //#include <drm/drm_zf8.h>
 

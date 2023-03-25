@@ -1,7 +1,7 @@
 //#include <linux/power_supply.h>
 #include <linux/soc/qcom/battery_charger_asus.h>
-#include "focaltech_core.h"
-#include "asus_tp.h"
+#include "../../drivers/input/touchscreen/focaltech_3658u/focaltech_core.h"
+#include "../.././drivers/input/touchscreen/focaltech_3658u/asus_tp.h"
 
 /*****************************************************************************
 * 1.Static variables
